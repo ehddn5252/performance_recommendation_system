@@ -1,0 +1,4 @@
+name : 				'kcbert-base-badSentence_naver_shopping_model.state(epoch7-0.9545)'
+bad sentiment result : 		88.67
+neutral_sentiment result : 	4.53
+differnce : 			84.14
